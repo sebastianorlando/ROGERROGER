@@ -2,8 +2,8 @@
 ![architecture](archPicChatTwo.JPG)
 
 
-Frontend: Built with React
-UI Components: ShadCN
+Frontend: Built with React<br />
+UI Components: ShadCN<br />
 Styling: Tailwind CSS
 Responsiveness: Fully Responsive Design
 Authentication: JWT Tokens
