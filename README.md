@@ -1,2 +1,2 @@
 ﻿# rogerROGER
-![architecture](archPicChatTwo)
+![architecture](archPicChatTwo.JPG)
